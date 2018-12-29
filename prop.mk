@@ -88,6 +88,12 @@ ro.sf.lcd_density=320
 PRODUCT_PROPERTY_OVERRIDES += \
 drm.service.enabled=true
 
+# DT2W (rosy)
+# value = 1 means enabled
+# value = 0 means disabled
+PRODUCT_PROPERTY_OVERRIDES += \
+dt2w.enabled=1
+
 # Fingerprint
 PRODUCT_PROPERTY_OVERRIDES += \
 persist.qfp=false
