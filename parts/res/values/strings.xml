@@ -57,4 +57,18 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
+     
+    <string name="tilt_sensor_title">Tilt sensor</string>
+    <string name="proximity_sensor_title">Proximity sensor</string>
+    <string name="hand_wave_gesture_title">Hand wave</string>
+    <string name="hand_wave_gesture_summary">Pulse notifications on hand wave</string>
+    <string name="pick_up_gesture_title">Pick-up</string>
+    <string name="pick_up_gesture_summary">Pulse notifications on pick-up</string>
+    <string name="pocket_gesture_title">Pocket</string>
+    <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
+    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_off">Off</string>
+    <string name="dialog_ok">OK</string>
+    <string name="doze_settings_help_title">Help</string>
+    <string name="doze_settings_help_text">These functions use sensor events to trigger pulsation alerts. The selected sensor is only turned on when an alert is received, which results in battery saving. There is also the option to turn on the sensor immediately after the screen is turned off, but the battery consumption is higher.</string>
 </resources>
